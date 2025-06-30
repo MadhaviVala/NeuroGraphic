@@ -1,0 +1,6 @@
+numpy 
+matplotlib
+networkx
+tkinter
+pyplot
+subplot
